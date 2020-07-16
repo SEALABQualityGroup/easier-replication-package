@@ -1,2 +1,2 @@
-# easier_replication_package
-Contains the replacation package of the journal case study
+# easier replication package
+Contains the the journal case study replacation package

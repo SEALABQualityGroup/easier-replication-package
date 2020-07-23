@@ -1,0 +1,85 @@
+Stationary value of the performance measures for fta:
+
+- Value of measure "Wsn_Type_Single_throughput_WSN_send_data":
+	0.101795
+
+- Value of measure "Wsn_Type_Single_utilization_WSN_send_data":
+	0.062146
+
+- Value of measure "Channel_Type_Single_throughput_CHN_forward_data":
+	0.101795
+
+- Value of measure "Channel_Type_Single_utilization_CHN_forward_data":
+	0.0397327
+
+- Value of measure "Fta_Type_Single_throughput_FTA_process_data":
+	0.101795
+
+- Value of measure "Fta_Type_Single_utilization_FTA_process_data":
+	0.0298353
+
+- Value of measure "Fta_Type_Single_throughput_FTA_packet_data":
+	0.101795
+
+- Value of measure "Fta_Type_Single_utilization_FTA_packet_data":
+	0.022712
+
+- Value of measure "Fta_Type_Multiple_throughput_FTA":
+	0.20359
+
+- Value of measure "Fta_Type_Multiple_utilization_FTA":
+	0.0525473
+
+- Value of measure "Lan_Type_Single_throughput_LAN_frwdto_db":
+	0.101795
+
+- Value of measure "Lan_Type_Single_utilization_LAN_frwdto_db":
+	0.0265853
+
+- Value of measure "Lan_Type_Single_throughput_LAN_frwdto_desk":
+	0.101795
+
+- Value of measure "Lan_Type_Single_utilization_LAN_frwdto_desk":
+	0.0102358
+
+- Value of measure "Lan_Type_Single_throughput_LAN_frwdto_sec":
+	0.101795
+
+- Value of measure "Lan_Type_Single_utilization_LAN_frwdto_sec":
+	0.121329
+
+- Value of measure "Lan_Type_Single_throughput_LAN_frwdto_fta":
+	0.101795
+
+- Value of measure "Lan_Type_Single_utilization_LAN_frwdto_fta":
+	0.0146573
+
+- Value of measure "Lan_Type_Multiple_throughput_LAN":
+	0.407181
+
+- Value of measure "Lan_Type_Multiple_utilization_LAN":
+	0.172808
+
+- Value of measure "DB_Type_Single_throughput_DB_store_data":
+	0.101795
+
+- Value of measure "DB_Type_Single_utilization_DB_store_data":
+	0.18921
+
+- Value of measure "Desk_Type_Single_throughput_DSK_show_map":
+	0.101795
+
+- Value of measure "Desk_Type_Single_utilization_DSK_show_map":
+	0.104192
+
+- Value of measure "Sec_Type_Single_throughput_SCR_decrypt_data":
+	0.101795
+
+- Value of measure "Sec_Type_Single_utilization_SCR_decrypt_data":
+	0.729192
+
+- Value of measure "Sec_Type_Multiple_throughput_SCR":
+	0.101795
+
+- Value of measure "Sec_Type_Multiple_utilization_SCR":
+	0.729192
